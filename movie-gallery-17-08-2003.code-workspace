@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../test module1"
+		},
+		{
+			"path": "../../../Desktop/vs -codes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "movie-gallery-17-08-2003"
+	}
+}

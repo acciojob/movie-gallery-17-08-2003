@@ -1,18 +1,42 @@
-.container-fluid {
+.section-1{
     display: flex;
-    flex-wrap: wrap;
-    margin: 0 50px;
-    padding: 30px;
+    height:8.33%;
+    gap: 20px;
+}
+.section-1 img{
+    width: 85%;
+}
+.section-2{
+    display: flex;
+    height:8.33%;
+    gap: 20px;
+}
+.section-2 img{
+    width: 95%;
 }
 
-.photo {
-    max-width: 6.333%;
-    padding: 0 10px;
-    height: 114px;
+
+
+
+.section-3{
+    display: flex;
+    height:8.33%;
+    gap: 20px;
+}
+.section-3 img{
+    width: 500px;
+}
+.section-4{
+    display: flex;
+    height:8.33%;
+    gap: 20px;
+}
+.section-4 img{
+    width: 1600px;
 }
 
-.photo img {
-    width: 100%;
-    height: 89%;
-}
+
+
+
+
 /* Your CSS Code here. */
